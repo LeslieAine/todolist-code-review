@@ -1,4 +1,4 @@
-import { addToStorage, getFromStorage } from '../updateLocalStorage.js';
+import { addToStorage, getFromStorage } from './updateLocalStorage.js';
 import handleCheck from './checkbox.js';
 import clearAll from './clearTasks.js';
 
