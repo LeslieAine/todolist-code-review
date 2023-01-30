@@ -3,7 +3,7 @@ import {
   addTask,
   displayTasks,
   removeAndEditTodo,
-} from './addRemove.js';
+} from './modules/addRemove.js';
 
 const form = document.querySelector('.todo-list');
 
